@@ -20,4 +20,4 @@ AI-powered Legal Metrology (Packaged Commodities) Rules compliance verification 
 
 
 ## Running the Application
-Open https://varunmusale2007.github.io/PackCheck/ in your browser.
+Open  https://varunmusale2007-a11y.github.io/PACKCHECK/ in your browser.
